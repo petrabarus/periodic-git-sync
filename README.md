@@ -1,4 +1,5 @@
-# Periodic git sync
+# periodic-git-sync
+Periodic git synchronizer
 
 ## Build and run
 
